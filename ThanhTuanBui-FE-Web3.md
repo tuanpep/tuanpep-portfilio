@@ -5,7 +5,7 @@ pdf_options:
 
 # Thanh Tuan Bui
 
-**Senior Web3 Front-end Developer**
+**Web3 Front-end Developer**
 
 📍 Hanoi, Vietnam | 📱 0326691940 | ✉️ <tuanbt209@gmail.com>
 
