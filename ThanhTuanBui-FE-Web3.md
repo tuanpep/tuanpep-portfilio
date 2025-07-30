@@ -194,17 +194,6 @@ Experienced Web3 Front-end Developer with 4+ years of expertise in blockchain de
 - Major: Information Technology
 ---
 
-## Professional Development & Certifications
-
-- AWS Certified Developer - Associate (2023)
-- Solana Blockchain Developer Certification (2023)
-- Regular contributor to open-source Web3 projects (5+ projects, 100+ contributions)
-- Active participant in blockchain developer communities and hackathons (3 hackathon wins)
-- Continuous learning through online courses and workshops (300+ hours annually)
-- Completed advanced certifications in AI application development and prompt engineering
-
----
-
 ## Languages
 
 - English (Professional working proficiency)
