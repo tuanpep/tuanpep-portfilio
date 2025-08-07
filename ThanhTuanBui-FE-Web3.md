@@ -13,7 +13,7 @@ pdf_options:
 
 ## Professional Summary
 
-Experienced Web3 Front-end Developer with 4+ years of expertise in blockchain development, including 2+ years specializing in EVM and Solana ecosystems. Proven track record delivering secure, scalable dApps handling $1B+ in transaction volume. Expert in gas optimization, smart contract integration, and cross-chain solutions with a focus on exceptional UX. Leverages AI tools to accelerate development workflows, reducing time-to-market by 30-40%.
+Experienced Web3 Front-end Developer with 4+ years of expertise in blockchain development, including 2+ years specializing in EVM and Solana ecosystems. Proven track record delivering secure, scalable dApps handling significant transaction volumes. Expert in gas optimization, smart contract integration, and cross-chain solutions with a focus on exceptional user experience. Leverages AI tools to accelerate development workflows and improve code quality.
 
 ---
 
@@ -53,67 +53,78 @@ Experienced Web3 Front-end Developer with 4+ years of expertise in blockchain de
 
 **Front-end Developer** | [https://whales.market](https://whales.market) | [https://pro.whales.market](https://pro.whales.market) | [@WhalesMarket](https://x.com/WhalesMarket)
 
-- Developed and launched MVP within 3 months, achieving 15K+ monthly active users
-- Implemented multi-chain support for 10+ EVM chains and Solana, increasing user base by 45%
-- Built secure wallet integration supporting MetaMask, Phantom with zero security incidents
-- Created admin dashboard handling 1000+ daily transactions with real-time monitoring
-- Optimized transaction processing reducing gas fees by 20% and improving UX
+- Developed and launched MVP within 3 months, achieving significant user adoption
+- Implemented multi-chain support for 10+ EVM chains and Solana, expanding platform accessibility
+- Built secure wallet integration supporting MetaMask, Phantom with robust security measures
+- Created comprehensive admin dashboard with real-time transaction monitoring and analytics
+- Optimized transaction processing to reduce gas fees and enhance user experience
 - *Tech Stack:* Next.js, TypeScript, ethers.js, web3.js, Wagmi, @solana/web3.js, Anchor, TailwindCSS, Shadcn UI
 
 ### Whales.Meme
 
 **Front-end Developer** | [https://whales.meme](https://whales.meme)
 
-- Developed and launched Solana-based memecoin launchpad platform with 50K+ token creations
-- Implemented near-zero fee token creation and trading system, saving users $500K+ in fees
-- Built bonding curve and pricing mechanisms for token economics with 99.8% calculation accuracy
-- Created liquidity initiation (TGE) features for fair token distribution with anti-bot measures
-- Integrated platform fee system with transparent fee structure, generating $250K+ in revenue
+- Developed and launched Solana-based memecoin launchpad platform with extensive token creation capabilities
+- Implemented cost-effective token creation and trading system with minimal fees
+- Built sophisticated bonding curve and pricing mechanisms for token economics
+- Created liquidity initiation (TGE) features for fair token distribution with anti-bot protection
+- Integrated transparent platform fee system with clear revenue generation model
 - *Tech Stack:* Next.js, TypeScript, @solana/web3.js, Anchor, TailwindCSS, Shadcn UI
 
 ### Intent.Trade
 
 **Front-end Developer** | [https://intent.trade](https://intent.trade) | [@intent_trade](https://x.com/intent_trade)
 
-- Developed trading platform with advanced analytics integration, processing 50K+ daily trades
-- Implemented token contract analysis and technical analysis features with 95% accuracy
-- Built text-command trading system for automated trading strategies, increasing user efficiency by 60%
+- Developed advanced trading platform with comprehensive analytics integration
+- Implemented token contract analysis and technical analysis features with high accuracy
+- Built innovative text-command trading system for automated trading strategies
 - Created real-time chart analysis and trading recommendations using TradingView API
-- Integrated DCA (Dollar-Cost Averaging) and limit order functionalities with 99.9% execution rate
+- Integrated DCA (Dollar-Cost Averaging) and limit order functionalities with reliable execution
 - *Tech Stack:* Next.js, TypeScript, @solana/web3.js, WebSocket, TradingView API, TailwindCSS
 
 ### Paperhands
 
 **Front-end Developer** | [https://paperhands.gm.ai](https://paperhands.gm.ai) | [@Paperhands_ai](https://x.com/Paperhands_ai)
 
-- Developed "2024 Jeet Recap" feature allowing users to check their trading performance
-- Created "How Jeet You Are" search functionality analyzing 1M+ wallets and trading behaviors
-- Built meme-driven market analytics dashboard with leaderboard system (30K+ daily users)
-- Implemented PaperHands Tool to calculate missed profits from early selling ("paperhanding")
-- Integrated social sharing features driving 75K+ social media shares and 120K+ new users
+- Developed "2024 Jeet Recap" feature for comprehensive trading performance analysis
+- Created "How Jeet You Are" search functionality analyzing wallet behaviors and trading patterns
+- Built engaging market analytics dashboard with competitive leaderboard system
+- Implemented PaperHands Tool to calculate missed profits from early selling decisions
+- Integrated social sharing features to enhance user engagement and platform visibility
 - *Tech Stack:* Next.js, TypeScript, @solana/web3.js, WebSocket, TailwindCSS
 
 ### GM.AI Telegram Bot
 
 **Front-end Developer** | [https://t.me/gmdotaibot](https://t.me/gmdotaibot) | [@gm_dot_ai](https://x.com/gm_dot_ai)
 
-- Developed Telegram airdrop bot with 1M+ active users and 98% uptime
-- Implemented claim airdrop eligibility verification and tracking system processing 100K+ daily claims
-- Built wallet connection and verification functionality for multiple chains with 99.9% success rate
-- Created gamified airdrop tasks and social engagement tracking features, increasing retention by 40%
-- Integrated with Solana blockchain for on-chain verification and token distribution
+- Developed high-performance Telegram airdrop bot with excellent uptime
+- Implemented comprehensive claim airdrop eligibility verification and tracking system
+- Built robust wallet connection and verification functionality for multiple chains
+- Created gamified airdrop tasks and social engagement tracking features
+- Integrated with Solana blockchain for secure on-chain verification and token distribution
 - *Tech Stack:* Node.js, TypeScript, Telegram Bot API, @solana/web3.js, WebSocket
+
+### gmAI
+
+**Front-end Developer** | [https://gm.ai](https://gm.ai) | [https://gm.ai/anchor](https://gm.ai/anchor)
+
+- Developed the gmAI Anchor program interface, a core component of Solana's next-generation AI-native ecosystem
+- Built front-end integration for the $GM token program and decentralized computing network
+- Implemented user interface for AI model tuning and serving capabilities on Solana blockchain
+- Created blockchain-centric feature store interface for real-time data collection and validation
+- Developed integration layer for AI-powered dApps including Intent.Trade and other ecosystem applications
+- *Tech Stack:* Next.js, TypeScript, @solana/web3.js, Anchor Framework, TailwindCSS
 
 ### Unich
 
 **Front-end Developer** | [https://unich.com/en](https://unich.com/en) | [https://token.unich.com](https://token.unich.com)
 
-- Developed comprehensive Web3 OTC trading platform handling $1.1B+ in trading volume
-- Optimized gas usage and improved transaction submission mechanisms, reducing failures by 65%
-- Enhanced TradingView chart integration for real-time market data with sub-second updates
-- Maintained and improved admin interface for platform management with 35+ admin tools
-- Led development of pre-order feature (currently in pre-launch phase) with 99% test coverage
-- Built Cashout Order system allowing users to exit positions before token launches
+- Developed comprehensive Web3 OTC trading platform handling substantial trading volume
+- Optimized gas usage and improved transaction submission mechanisms, significantly reducing failures
+- Enhanced TradingView chart integration for real-time market data with minimal latency
+- Maintained and improved admin interface with comprehensive platform management tools
+- Led development of pre-order feature with extensive testing coverage for secure transactions
+- Built Cashout Order system enabling users to exit positions before token launches
 - *Tech Stack:* Next.js, TypeScript, React, Web3.js, @solana/web3.js, TradingView API, TailwindCSS
 
 ---
@@ -124,11 +135,11 @@ Experienced Web3 Front-end Developer with 4+ years of expertise in blockchain de
 
 **Front-end Developer** | [https://www.personaify.ai](https://www.personaify.ai)
 
-- Developed document processing platform with 10,000+ daily users and 95% customer satisfaction
-- Implemented real-time document processing and analysis features handling 50K+ documents daily
-- Built responsive UI components using React and Shadcn UI with 99.8% cross-browser compatibility
-- Created chat interface with 95% user satisfaction rate and 85% issue resolution on first interaction
-- Optimized performance and implemented automated testing (85% coverage), reducing bugs by 40%
+- Developed document processing platform serving thousands of daily users with high satisfaction rates
+- Implemented real-time document processing and analysis features handling large document volumes
+- Built responsive UI components using React and Shadcn UI with excellent cross-browser compatibility
+- Created intuitive chat interface with high user satisfaction and effective issue resolution
+- Optimized performance and implemented comprehensive automated testing, significantly reducing bugs
 - *Tech Stack:* Next.js, TypeScript, React, Shadcn UI, WebSocket
 
 ---
@@ -139,51 +150,51 @@ Experienced Web3 Front-end Developer with 4+ years of expertise in blockchain de
 
 **Front-end Developer** | Jan 2025 - Present
 
-- Led development of Web3 OTC trading platform handling $1.1B+ in trading volume
-- Optimized gas usage and transaction submission mechanisms, reducing failures by 65%
-- Enhanced TradingView chart integration for real-time market data with sub-second updates
-- Built Cashout Order system allowing users to exit positions before token launches
-- Implemented pre-order feature with 99% test coverage for secure transaction handling
+- Lead development of Web3 OTC trading platform handling substantial trading volumes
+- Optimize gas usage and transaction submission mechanisms, significantly reducing failure rates
+- Enhance TradingView chart integration for real-time market data with sub-second updates
+- Build Cashout Order system enabling users to exit positions before token launches
+- Implement pre-order feature with comprehensive test coverage for secure transaction handling
 
 ### LAB3
 
 **Front-end Developer** | Oct 2023 - Jan 2025
 
-- Led development for 5+ Web3 projects with 100% on-time delivery and client satisfaction
-- Implemented secure wallet integrations for multiple blockchains with zero security incidents
-- Developed reusable Web3 components reducing development time by 40% and codebase size by 25%
-- Pioneered AI-assisted development workflows, increasing team productivity by 25%
-- Created AI-powered code review system that reduced bugs by 35% pre-deployment
+- Lead development for multiple Web3 projects with consistent on-time delivery and client satisfaction
+- Implement secure wallet integrations for multiple blockchains with robust security measures
+- Develop reusable Web3 components reducing development time and improving codebase maintainability
+- Pioneer AI-assisted development workflows, enhancing team productivity and code quality
+- Create AI-powered code review system that significantly reduces bugs pre-deployment
 
 ### SAVVYCOM
 
 **Front-end Developer** | Jun 2022 - Oct 2023
 
-- Led development of Personaify.ai, an AI-powered document processing platform with 10K+ users
-- Architected responsive UI components using React and Shadcn UI with 99% cross-device compatibility
-- Implemented real-time document processing for 10,000+ simultaneous documents
-- Achieved 95% user satisfaction rate with AI chat interface handling 5K+ daily interactions
-- Optimized performance and implemented automated testing (85% coverage)
-- Developed AI-based feature recommendation system that increased user engagement by 40%
+- Lead development of Personaify.ai, an AI-powered document processing platform
+- Architect responsive UI components using React and Shadcn UI with excellent cross-device compatibility
+- Implement real-time document processing for thousands of simultaneous documents
+- Achieve high user satisfaction rates with AI chat interface handling significant daily interactions
+- Optimize performance and implement comprehensive automated testing with high coverage
+- Develop AI-based feature recommendation system that significantly increases user engagement
 
 ### CMC GLOBAL
 
 **Front-end Developer** | Apr 2021 - Jun 2022
 
-- Led front-end development for 2 major client projects with combined 50K+ monthly active users
-- Improved application performance by 40% through code optimization and lazy loading
-- Reduced bug reports by 25% through automated testing implementation and CI/CD pipelines
-- Managed client communications and requirements gathering with 100% client satisfaction
-- Implemented AI-powered analytics dashboard that improved decision-making efficiency by 30%
+- Lead front-end development for major client projects with substantial monthly active users
+- Improve application performance through code optimization and lazy loading techniques
+- Reduce bug reports through automated testing implementation and CI/CD pipelines
+- Manage client communications and requirements gathering with excellent client satisfaction
+- Implement AI-powered analytics dashboard that improves decision-making efficiency
 
 ### TTC Solutions Technology
 
 **Intern/Junior Front-end Developer** | Aug 2020 - Apr 2021
 
-- Contributed to 3+ production projects within first year, receiving "Rising Star" award
-- Implemented responsive designs for multiple client websites with 99% cross-browser compatibility
-- Reduced page load times by 30% through performance optimization techniques
-- Began exploring AI-assisted development tools to improve workflow efficiency
+- Contribute to multiple production projects within first year, receiving recognition for performance
+- Implement responsive designs for client websites with excellent cross-browser compatibility
+- Reduce page load times through performance optimization techniques
+- Begin exploring AI-assisted development tools to improve workflow efficiency
 
 ---
 
